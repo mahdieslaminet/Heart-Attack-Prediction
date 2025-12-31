@@ -1,0 +1,32 @@
+# ==== C# / .NET ====
+bin/
+obj/
+.vs/
+*.user
+*.suo
+packages/
+publish/
+
+# ==== Python ====
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+
+# ==== VS Code ====
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+
+# ==== Logs & OS ====
+*.log
+.DS_Store
+Thumbs.db
