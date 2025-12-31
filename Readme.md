@@ -26,8 +26,14 @@ React UI->  API Gateway (YARP - .NET)  ->  FastAPI (Python)  ->  Preprocessor + 
 ---
 
 ## 📊 داده‌ها (Dataset)
-مقاله: https://github.com/BehtashShirzad/Multimedia/blob/master/Articles/6.pdf
-ترجمه:https://github.com/BehtashShirzad/Multimedia/blob/master/Translate/Translate_6.pdf
+ 
+
+- 📄 **مقاله اصلی:**  
+  https://github.com/mahdieslaminet/Heart-Attack-Prediction/blob/main/Application%20of%20Deep%20Learning%20for%20Heart%20Attack%20Prediction%20with.pdf
+
+- 📘 **ترجمه مقاله:**  
+  https://github.com/mahdieslaminet/Heart-Attack-Prediction/blob/main/Translate_Application%20of%20Deep%20Learning%20for%20Heart%20Attack%20Prediction%20with.pdf
+
 -  **منبع:** UCI Heart Disease Dataset (Cleveland) [https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland]
 - **نوع داده:** جدولی (Tabular)
 - **تعداد ویژگی‌ها:** 13
