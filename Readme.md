@@ -1,5 +1,6 @@
 ![Service Example](Service%20Example.png)
 
+
 # ❤️ سامانه پیش‌بینی ریسک حمله قلبی با یادگیری عمیق
 
 
@@ -27,7 +28,7 @@ React UI->  API Gateway (YARP - .NET)  ->  FastAPI (Python)  ->  Preprocessor + 
 
 ## 📊 داده‌ها (Dataset)
  
-
+- دمو لایو: https://huggingface.co/spaces/Mohamadshirzad/HeartAttacklive
 - 📄 **مقاله اصلی:**  
   https://github.com/mahdieslaminet/Heart-Attack-Prediction/blob/main/Application%20of%20Deep%20Learning%20for%20Heart%20Attack%20Prediction%20with.pdf
 
